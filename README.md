@@ -1,8 +1,8 @@
 ## 🌐 Other Projects: Web Apps
 
-### Project 1: **[Typing Racer Game](https://arun-dev.shinyapps.io/typeracer/)** is an interactive Shiny web application designed to help users improve their typing speed and accuracy. The app runs timed typing tests, tracks performance over multiple rounds, and provides statistical summaries in a user-friendly interface.  
+### 🔍 Overview (Project 1) **[Typing Racer Game](https://arun-dev.shinyapps.io/typeracer/)** is an interactive Shiny web application designed to help users improve their typing speed and accuracy. The app runs timed typing tests, tracks performance over multiple rounds, and provides statistical summaries in a user-friendly interface.  
 
-### Features
+### 🔧 Features
 1. **Timed Typing Rounds**  
    - Three-second countdown before each round.  
    - Randomly selected passage to type within 60 seconds.  
